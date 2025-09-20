@@ -1,0 +1,51 @@
+product_id,product_name,category,subcategory,unit_cost
+1,Biscuits_1,Snacks,Biscuits,13.91
+2,Soft Drinks_2,Beverages,Soft Drinks,18.85
+3,Vegetables_3,Produce,Vegetables,4.39
+4,Bread_4,Bakery,Bread,3.06
+5,Beef_5,Meat,Beef,14.84
+6,Cakes_6,Bakery,Cakes,12.52
+7,Juice_7,Beverages,Juice,8.32
+8,Juice_8,Beverages,Juice,5.84
+9,Biscuits_9,Snacks,Biscuits,1.03
+10,Juice_10,Beverages,Juice,7.92
+11,Vegetables_11,Produce,Vegetables,12.84
+12,Chips_12,Snacks,Chips,14.68
+13,Cakes_13,Bakery,Cakes,13.67
+14,Cakes_14,Bakery,Cakes,14.25
+15,Juice_15,Beverages,Juice,4.64
+16,Biscuits_16,Snacks,Biscuits,13.87
+17,Cheese_17,Dairy,Cheese,8.72
+18,Vegetables_18,Produce,Vegetables,6.45
+19,Beef_19,Meat,Beef,9.83
+20,Poultry_20,Meat,Poultry,10.71
+21,Chips_21,Snacks,Chips,13.52
+22,Cakes_22,Bakery,Cakes,2.77
+23,Cheese_23,Dairy,Cheese,5.27
+24,Milk_24,Dairy,Milk,1.46
+25,Cheese_25,Dairy,Cheese,12.61
+26,Vegetables_26,Produce,Vegetables,8.87
+27,Chips_27,Snacks,Chips,14.65
+28,Beef_28,Meat,Beef,8.59
+29,Milk_29,Dairy,Milk,17.96
+30,Vegetables_30,Produce,Vegetables,5.16
+31,Biscuits_31,Snacks,Biscuits,1.95
+32,Milk_32,Dairy,Milk,9.67
+33,Beef_33,Meat,Beef,19.05
+34,Beef_34,Meat,Beef,16.78
+35,Soft Drinks_35,Beverages,Soft Drinks,18.05
+36,Biscuits_36,Snacks,Biscuits,9.55
+37,Cheese_37,Dairy,Cheese,15.55
+38,Soft Drinks_38,Beverages,Soft Drinks,12.91
+39,Cakes_39,Bakery,Cakes,2.47
+40,Bread_40,Bakery,Bread,6.16
+41,Bread_41,Bakery,Bread,3.63
+42,Cheese_42,Dairy,Cheese,14.19
+43,Chips_43,Snacks,Chips,2.22
+44,Beef_44,Meat,Beef,11.31
+45,Poultry_45,Meat,Poultry,4.93
+46,Beef_46,Meat,Beef,18.19
+47,Juice_47,Beverages,Juice,17.28
+48,Soft Drinks_48,Beverages,Soft Drinks,10.06
+49,Cakes_49,Bakery,Cakes,15.32
+50,Poultry_50,Meat,Poultry,10.28
